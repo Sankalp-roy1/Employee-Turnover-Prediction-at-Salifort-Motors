@@ -71,6 +71,28 @@ Lack of promotion opportunities significantly increases attrition risk
 
 A small number of features explain most turnover behavior
 
+## 📈 Exploratory Data Analysis Highlights
+
+### Employee Turnover Rate
+![Employee Turnover Rate](turnover_rate.png)
+
+Approximately one-quarter of employees in the dataset have left the company, indicating a significant retention challenge.
+
+---
+
+### Satisfaction Level vs Turnover
+![Satisfaction vs Turnover](satisfaction_vs_turnover.png)
+
+Employees who left the company reported substantially lower satisfaction levels than those who stayed, making satisfaction the strongest predictor of turnover.
+
+---
+
+### Average Monthly Hours vs Turnover
+![Monthly Hours vs Turnover](monthly_hours_vs_turnover.png)
+
+Employees who left worked more monthly hours on average, suggesting that excessive workload contributes to burnout and attrition.
+
+
 💡 Business Recommendations
 
 Proactively monitor employee satisfaction
