@@ -109,7 +109,7 @@ Jupyter Notebook
 👉 Salifort_Employee_Turnover_Analysis.html
 
 📑 Executive Summary Slide
-👉 Salifort_Executive_Summary.pptx
+👉 Salifort_Summary.pptx
 
 🧾 PACE Strategy Document (PDF)
 
